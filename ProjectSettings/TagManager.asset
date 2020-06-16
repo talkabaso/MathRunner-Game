@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ObstacleWall
+  - Div
+  - Mul
+  - Plus
+  - Sub
+  - OneDigit
+  - TwoDigits
+  - ThreeDigits
+  - Number
+  - WallR
+  - WallL
+  - PlusText
+  - SubText
+  - MulText
+  - DivText
+  - Equal
+  - TargetScoreText
+  - ScoreText
+  - MulTwo
+  - PowerUp
+  - HeavyWeight
+  - Vortex
+  - PogoStick
+  - Fire
+  - MeteorBallEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment
+  - Player
+  - Number
+  - Sign
+  - Wall
+  - Enemy
+  - Boost
+  - Tornado
+  - Vortex
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
