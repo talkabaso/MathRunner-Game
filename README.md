@@ -12,7 +12,9 @@ In fact, the game provides the tools for children to learn basic mathematical ac
 
 ##  About Game
 
-We created an infinite runner game that collects numbers and math signs that appears randomly on the road such that the player must collects the items in the right order, .For winning the game he needs to achive the target sum and then collect the equal sign.
+We created an infinite runner game that collects numbers and math signs that appears randomly on the road such that the player must collects the items in the right order.
+
+For winning the game the player needs to achieve the target sum and then collect the equal sign.
 
 We have created a variety of game maps that allow the player to choose from a number of different environments which will make the child want to play more in the game, as a result he will continue to improve and even enjoy it.
 In each map we offer several different levels of education that suit different ages and grades. Thus, the child will want to learn and improve so that he can progress to the next levels.
