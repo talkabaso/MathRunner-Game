@@ -28,10 +28,10 @@ In addition, it is important to note that the game can suit all ages as it is ch
 <img src="https://thumbs.gfycat.com/UniformShimmeringHeron-size_restricted.gif" width="450" height="250" >
 
 ## Controls
-+ `a` - Move left
-+ `d` - Move right
-+ `w` - Jump
-+ `S` - Slide
++ `a or ←` - Move left
++ `d or →` - Move right
++ `w or ↑` - Jump
++ `s or ↓` - Slide
 
 ##
 [Link for game](https://talkabaso.itch.io/Mathrunner)
