@@ -6,7 +6,7 @@ Math Runner is an enjoyable game for learning math for children.
 
 Our goal was to create a fun learning game for kids, without giving them the feeling they learn by allowing the player to play with fun atmosphere that does not resemble other educational games where you have to type the correct answer or drag it to the correct place, but everything Made while playing and moving, avoiding obstacles and more.
 
-In fact, the game provides the tools for children to learn basic mathematical activities such as: connecting, subtracting, multiplying and dividing.
+In fact, the game provides the tools for children to learn basic mathematical activities such as: adding, subtracting, multiplying and dividing.
 
 <img src="https://thumbs.gfycat.com/PoshInsistentChickadee-size_restricted.gif" width="450" height="250" >
 
